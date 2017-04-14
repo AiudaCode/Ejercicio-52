@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1492201156 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 52\main.cpp
+	<iostream>
+	"Polindromo.h"
+
+1492201419 c:\users\omarm\dropbox\codeblocks proyects\ejercicio 52\include\polindromo.h
+	<iostream>
+
+1492201419 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio 52\src\polindromo.cpp
+	"Polindromo.h"
+
